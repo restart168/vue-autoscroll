@@ -1,0 +1,24 @@
+{
+  "name": "auto-scroll-vue",
+  "version": "1.0.0",
+  "description": "适用于vue的自动轮播效果",
+  "main": "lib/autoScroll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/restart168/vue-autoscroll.git"
+  },
+  "keywords": [
+    "vue",
+    "自动轮播",
+    "文字轮播"
+  ],
+  "author": "huanghuaqin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/restart168/vue-autoscroll/issues"
+  },
+  "homepage": "https://github.com/restart168/vue-autoscroll#readme"
+}
